@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/idea-capture-app/static/css/main.f855e6bc.css",
+    "main.js": "/idea-capture-app/static/js/main.1086baf4.js",
+    "static/js/453.8ab44547.chunk.js": "/idea-capture-app/static/js/453.8ab44547.chunk.js",
+    "index.html": "/idea-capture-app/index.html",
+    "main.f855e6bc.css.map": "/idea-capture-app/static/css/main.f855e6bc.css.map",
+    "main.1086baf4.js.map": "/idea-capture-app/static/js/main.1086baf4.js.map",
+    "453.8ab44547.chunk.js.map": "/idea-capture-app/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.1086baf4.js"
+  ]
+}
